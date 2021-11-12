@@ -25,7 +25,8 @@ void main(){
     }
 }
 ```
-
+<details><summary>Expend Result</summary>
+    
 Result:
 ```
 Enter the size of array = 5
@@ -45,3 +46,6 @@ Enter the value for 5 position
 7 value at 4 position 
 26 value at 5 position 
 ```
+
+</details>
+
